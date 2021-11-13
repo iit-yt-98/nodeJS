@@ -1,0 +1,17 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "Node mongoDb Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Yagyesh T",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mongodb": "^4.1.4",
+    "save": "^2.4.0"
+  }
+}
